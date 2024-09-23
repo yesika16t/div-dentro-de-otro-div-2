@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+ }
+ 
+ .container {
+      background: #635f5f;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+ }
+ .boxcontainer { 
+     background: #8870e7;
+     height: 500px;
+     width: 500px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-radius: 15px;
+ }
+ .uno {
+     background: #f37064;
+     width: 200px;
+     height: 200px;
+     border-radius: 15px;
+ 
+ }
